@@ -16,3 +16,4 @@
 
 ## Points to note:
 - The file 'db.db' already has some rows populated for demonstration purposes.
+- Code will work even without OPENAI_API_KEY, but missing/null tone and sentiment from the database will not be generated
