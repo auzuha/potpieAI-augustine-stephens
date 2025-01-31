@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+celery
+redis
+openai
+python-dotenv
+alembic
